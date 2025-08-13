@@ -484,3 +484,8 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/dating.db*
+.vscode/launch.json
+API/Data/Migrations/20250813144536_UserEntityUpdated.Designer.cs
+API/Data/Migrations/20250813144536_UserEntityUpdated.cs
+API/Data/Migrations/AppDbContextModelSnapshot.cs
+API/Data/Migrations/AppDbContextModelSnapshot.cs
